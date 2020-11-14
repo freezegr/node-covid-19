@@ -1,0 +1,31 @@
+{
+  "name": "@freezegold/covid-19",
+  "version": "0.0.1",
+  "description": "stats of corona virus",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freezegr/node-covid-19.git"
+  },
+  "keywords": [
+    "covid",
+    "corona",
+    "virus"
+  ],
+  "author": "freezegr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freezegr/node-covid-19/issues"
+  },
+  "homepage": "https://github.com/freezegr/node-covid-19#readme"
+}
