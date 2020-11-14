@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to anime.js 👋</h1>
+<h1 align="center">Welcome to covid-19 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/npm/v/@freezegold/anime.js?orange=blue" />
-  <a href="https://www.npmjs.com/package/@freezegold/anime.js">
-    <img alt="downloads" src="https://img.shields.io/npm/dm/@freezegold/anime.js.svg?color=blue" target="_blank" />
+  <img src="https://img.shields.io/npm/v/@freezegold/covid-19?orange=blue" />
+  <a href="https://www.npmjs.com/package/@freezegold/covid-19">
+    <img alt="downloads" src="https://img.shields.io/npm/dm/@freezegold/covid-19.svg?color=blue" target="_blank" />
   </a>
-  <a href="https://github.com/freezegr/insta.js/blob/master/LICENSE">
+  <a href="https://github.com/freezegr/node-covid-19/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://github.com/freezegr/gitmoji-changelog">
