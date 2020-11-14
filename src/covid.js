@@ -17,7 +17,7 @@ module.exports.covid = function(country = "global", callback){
         return callback(null, info)
       })
   } else {
-  	fetch(`https://covid19.mathdro.id/api/countries/${country}`)
+    fetch(`https://covid19.mathdro.id/api/countries/${country}`)
   	  .then(result => result.json())
   	  .then(res => {
   	    var info = {
@@ -29,6 +29,6 @@ module.exports.covid = function(country = "global", callback){
   	  })
   	  .catch(error => {
   	    return callback(`I can't found country with name ${country}!`, null)
-  	  })
+      })
   }
 }
